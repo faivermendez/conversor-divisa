@@ -12,7 +12,7 @@ Te muestro algunas capturas del funconamiento del Conversor:
 ![Principal](img/img1.png)
 
 En el siguiente módulo, se ingresa el valor a convertir.
-![Principal](img/img2.png)
+!(img/img2.png)
 
 Luego, se elige la conversión que quieras.
 ![Principal](img/img3.png)
