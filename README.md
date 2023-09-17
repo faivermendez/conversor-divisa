@@ -5,21 +5,34 @@ Conversor de divisas es un proyecto desarrollado en Java que permite realizar co
 -Puedes convertir peso colombiano a dolar,euro, yen, libra y won coreano.
 -También puedes convertir cualquiera de esas monedas a peso colombiano,
 
-#Capturas de pantalla
+## Capturas de pantalla
 
 Te muestro algunas capturas del funconamiento del Conversor:
 
-![Principal](conversor/img/img1.jpg)
+![Principal](img/img1.png)
 
+En el siguiente módulo, se ingresa el valor a convertir.
+![Principal](img/img2.png)
 
+Luego, se elige la conversión que quieras.
+![Principal](img/img3.png)
+
+Se muestra el resultado de la conversión.
+![Principal](img/img4.png)
+
+Módulo para escoger si quieres realizar otra conversión o no.
+![Principal](img/img5.png)
+
+Fin del programa.
+![Principal](img/img6.png)
 
 ## Cómo usar
 
 Para utilizar este proyecto, sigue estos pasos:
 
-1. Clona el repositorio.
-2. Ejecuta el comando `npm install`.
-3. Inicia la aplicación con `npm start`.
+1. Clona el repositorio del proyecto o descargarlo por medio de un .zip.
+2. Importa el repositorio a tu IDE.
+3. Ejecuta el programa.
 
 ## Contribuir
 
