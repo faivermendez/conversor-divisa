@@ -9,7 +9,7 @@ Conversor de divisas es un proyecto desarrollado en Java que permite realizar co
 
 Te muestro algunas capturas del funconamiento del Conversor:
 
-![Principal](conversor/img/img1.jpg)
+![Principal](conversor/img/img1.png)
 
 
 
