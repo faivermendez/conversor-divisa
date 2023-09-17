@@ -11,20 +11,25 @@ Te muestro algunas capturas del funconamiento del Conversor:
 
 ![Principal](img/img1.png)
 
-En el siguiente módulo, se ingresa el valor a convertir.
-!(img/img2.png)
+-En el siguiente módulo, se ingresa el valor a convertir.
 
-Luego, se elige la conversión que quieras.
-![Principal](img/img3.png)
+![Secundario](img/img2.png)
 
-Se muestra el resultado de la conversión.
-![Principal](img/img4.png)
+-Luego, se elige la conversión que quieras.
 
-Módulo para escoger si quieres realizar otra conversión o no.
-![Principal](img/img5.png)
+![Secundario](img/img3.png)
 
-Fin del programa.
-![Principal](img/img6.png)
+-Se muestra el resultado de la conversión.
+
+![Secundario](img/img4.png)
+
+-Módulo para escoger si quieres realizar otra conversión o no.
+
+![Secundario](img/img5.png)
+
+-Fin del programa.
+
+![Secundario](img/img6.png)
 
 ## Cómo usar
 
